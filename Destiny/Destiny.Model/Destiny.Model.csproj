@@ -44,6 +44,9 @@
     <Compile Include="Card.cs" />
     <Compile Include="CardRank.cs" />
     <Compile Include="CardSuit.cs" />
+    <Compile Include="Evaluator\CardConstants.cs" />
+    <Compile Include="Evaluator\HandTypes.cs" />
+    <Compile Include="Evaluator\IHandEvaluator.cs" />
     <Compile Include="Flop.cs" />
     <Compile Include="Hand.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
